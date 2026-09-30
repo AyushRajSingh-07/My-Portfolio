@@ -1,0 +1,28 @@
+p{
+    color: white;
+}
+
+h2{
+    text-align: center;
+    margin:35px 0 15px
+    padding: bottom 8px;
+    color: lightblue;
+}
+
+p {
+    background: #1e293b;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #0f172a;
+    color: #e2e8f0;
+    line-height: 2.1;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 25px;
+}
